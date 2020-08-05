@@ -1,0 +1,766 @@
+{
+    "result": "ok",
+    "errmsg": "success",
+    "row": {
+        "goodsCategoryList": [
+            {
+                "id": 149,
+                "categoryName": "物料",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 103,
+                "sonCategoryList": [
+                    {
+                        "id": 213,
+                        "categoryName": "仓库耗材",
+                        "parentId": 149,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 214,
+                        "categoryName": "包装物",
+                        "parentId": 149,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 215,
+                        "categoryName": "长期用低值易耗品",
+                        "parentId": 149,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 216,
+                        "categoryName": "仓库办公用品",
+                        "parentId": 149,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 217,
+                        "categoryName": "办公用品采购",
+                        "parentId": 149,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 593,
+                        "categoryName": "劳保用品",
+                        "parentId": 149,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 594,
+                        "categoryName": "短期用低值易耗品",
+                        "parentId": 149,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 597,
+                        "categoryName": "市场物料",
+                        "parentId": 149,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 150,
+                "categoryName": "水果",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 1,
+                "sonCategoryList": [
+                    {
+                        "id": 156,
+                        "categoryName": "蔬菜",
+                        "parentId": 150,
+                        "rank": 2,
+                        "sort": 2,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 345,
+                        "categoryName": "苹果香蕉梨",
+                        "parentId": 150,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 346,
+                        "categoryName": "当季热卖",
+                        "parentId": 150,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 347,
+                        "categoryName": "西瓜甜瓜",
+                        "parentId": 150,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 348,
+                        "categoryName": "葡提浆果",
+                        "parentId": 150,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 349,
+                        "categoryName": "桃李杏枣",
+                        "parentId": 150,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 350,
+                        "categoryName": "芒橙柑柚",
+                        "parentId": 150,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 351,
+                        "categoryName": "热带水果",
+                        "parentId": 150,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 151,
+                "categoryName": "零食",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 6,
+                "sonCategoryList": [
+                    {
+                        "id": 392,
+                        "categoryName": "面包糕点",
+                        "parentId": 151,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 393,
+                        "categoryName": "饼干",
+                        "parentId": 151,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 394,
+                        "categoryName": "糖果果冻",
+                        "parentId": 151,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 395,
+                        "categoryName": "坚果炒货",
+                        "parentId": 151,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 396,
+                        "categoryName": "蜜饯果干",
+                        "parentId": 151,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 397,
+                        "categoryName": "卤味零食",
+                        "parentId": 151,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 398,
+                        "categoryName": "礼盒",
+                        "parentId": 151,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 152,
+                "categoryName": "鲜花",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 10,
+                "sonCategoryList": [
+                    {
+                        "id": 168,
+                        "categoryName": "鲜花",
+                        "parentId": 152,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 169,
+                        "categoryName": "盆栽",
+                        "parentId": 152,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 170,
+                        "categoryName": "花具",
+                        "parentId": 152,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 374,
+                        "categoryName": "花瓶",
+                        "parentId": 152,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 153,
+                "categoryName": "三餐食材",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 2,
+                "sonCategoryList": [
+                    {
+                        "id": 155,
+                        "categoryName": "早餐",
+                        "parentId": 153,
+                        "rank": 2,
+                        "sort": 1,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 157,
+                        "categoryName": "豆制品",
+                        "parentId": 153,
+                        "rank": 2,
+                        "sort": 3,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 158,
+                        "categoryName": "肉禽蛋",
+                        "parentId": 153,
+                        "rank": 2,
+                        "sort": 4,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 159,
+                        "categoryName": "水产",
+                        "parentId": 153,
+                        "rank": 2,
+                        "sort": 5,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 160,
+                        "categoryName": "速食",
+                        "parentId": 153,
+                        "rank": 2,
+                        "sort": 6,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 161,
+                        "categoryName": "调味",
+                        "parentId": 153,
+                        "rank": 2,
+                        "sort": 8,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 162,
+                        "categoryName": "粮油",
+                        "parentId": 153,
+                        "rank": 2,
+                        "sort": 9,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 199,
+                        "categoryName": "油炸",
+                        "parentId": 153,
+                        "rank": 2,
+                        "sort": 7,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 201,
+                        "categoryName": "滋补",
+                        "parentId": 153,
+                        "rank": 2,
+                        "sort": 20,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 154,
+                "categoryName": "母婴",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 28,
+                "sonCategoryList": [
+                    {
+                        "id": 194,
+                        "categoryName": "尿裤",
+                        "parentId": 154,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 195,
+                        "categoryName": "洗护喂养",
+                        "parentId": 154,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 390,
+                        "categoryName": "奶粉辅食",
+                        "parentId": 154,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 391,
+                        "categoryName": "孕妈必备",
+                        "parentId": 154,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 163,
+                "categoryName": "牛奶饮品",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 3,
+                "sonCategoryList": [
+                    {
+                        "id": 164,
+                        "categoryName": "牛奶",
+                        "parentId": 163,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 165,
+                        "categoryName": "饮料",
+                        "parentId": 163,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 166,
+                        "categoryName": "酒类",
+                        "parentId": 163,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 167,
+                        "categoryName": "冷饮",
+                        "parentId": 163,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 171,
+                "categoryName": "居家",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 13,
+                "sonCategoryList": [
+                    {
+                        "id": 183,
+                        "categoryName": "鞋服内衣",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 184,
+                        "categoryName": "家纺",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 185,
+                        "categoryName": "厨房",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 186,
+                        "categoryName": "清洁",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 187,
+                        "categoryName": "办公文具",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 196,
+                        "categoryName": "户外",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 200,
+                        "categoryName": "玩具",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 375,
+                        "categoryName": "纸制品",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 376,
+                        "categoryName": "卫浴",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 377,
+                        "categoryName": "卧室",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 378,
+                        "categoryName": "收纳",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 379,
+                        "categoryName": "手机周边",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 380,
+                        "categoryName": "车品",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 381,
+                        "categoryName": "小家电",
+                        "parentId": 171,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 172,
+                "categoryName": "美妆",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 25,
+                "sonCategoryList": [
+                    {
+                        "id": 188,
+                        "categoryName": "洗护清洁",
+                        "parentId": 172,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 189,
+                        "categoryName": "水乳面霜",
+                        "parentId": 172,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 190,
+                        "categoryName": "彩妆",
+                        "parentId": 172,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 382,
+                        "categoryName": "口腔护理",
+                        "parentId": 172,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 383,
+                        "categoryName": "化妆工具",
+                        "parentId": 172,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 384,
+                        "categoryName": "面膜",
+                        "parentId": 172,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 385,
+                        "categoryName": "身体护理",
+                        "parentId": 172,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 386,
+                        "categoryName": "女性护理",
+                        "parentId": 172,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 387,
+                        "categoryName": "男性护理",
+                        "parentId": 172,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 388,
+                        "categoryName": "美发用品",
+                        "parentId": 172,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 389,
+                        "categoryName": "香水",
+                        "parentId": 172,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 173,
+                "categoryName": "生活服务",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 101,
+                "sonCategoryList": [
+                    {
+                        "id": 191,
+                        "categoryName": "玩乐",
+                        "parentId": 173,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 192,
+                        "categoryName": "美食",
+                        "parentId": 173,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 193,
+                        "categoryName": "本地服务",
+                        "parentId": 173,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 218,
+                "categoryName": "日化清洁",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 0,
+                "sonCategoryList": null
+            },
+            {
+                "id": 343,
+                "categoryName": "宠物",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 0,
+                "sonCategoryList": [
+                    {
+                        "id": 3165,
+                        "categoryName": "猫",
+                        "parentId": 343,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 453,
+                "categoryName": "市场物料（废弃）",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 102,
+                "sonCategoryList": null
+            },
+            {
+                "id": 591,
+                "categoryName": "数码产品",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 100,
+                "sonCategoryList": [
+                    {
+                        "id": 592,
+                        "categoryName": "手机",
+                        "parentId": 591,
+                        "rank": 2,
+                        "sort": 0,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 3157,
+                "categoryName": "测试分类（新）",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 0,
+                "sonCategoryList": [
+                    {
+                        "id": 3158,
+                        "categoryName": "测试分类2",
+                        "parentId": 3157,
+                        "rank": 2,
+                        "sort": 1,
+                        "sonCategoryList": null
+                    },
+                    {
+                        "id": 3170,
+                        "categoryName": "测试分类3",
+                        "parentId": 3157,
+                        "rank": 2,
+                        "sort": 1,
+                        "sonCategoryList": null
+                    }
+                ]
+            },
+            {
+                "id": 3160,
+                "categoryName": "测试水果",
+                "parentId": 0,
+                "rank": 1,
+                "sort": 20,
+                "sonCategoryList": [
+                    {
+                        "id": 3161,
+                        "categoryName": "水果01",
+                        "parentId": 3160,
+                        "rank": 2,
+                        "sort": 1,
+                        "sonCategoryList": null
+                    }
+                ]
+            }
+        ]
+    }
+}
